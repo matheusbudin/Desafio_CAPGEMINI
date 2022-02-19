@@ -21,3 +21,9 @@ Conforme a figura:
 ![image](https://user-images.githubusercontent.com/22027268/154817385-3f2570bc-8a67-456d-9688-2c5ede1aa9b0.png)
 
 
+# Para Executar os programas:
+1) Clique no espaço destinado a cada exercício do desafio, eles estão em fila, é só ir rolando a página para baixo (pageDown);
+2) Uma vez selecionado, clique no ícone do "Play", ele vai pedir para o usuário entrar com o dado (conforme o exercício);
+3) Aperte a tecla "Enter" após a entrada do usuário e ele executará o código imprimindo a saída requisitada:
+
+![image](https://user-images.githubusercontent.com/22027268/154817505-a3007e77-181a-44fa-accb-92e090491090.png)
