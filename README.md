@@ -1,9 +1,11 @@
 # Desafio_CAPGEMINI
 Repositório destinado para submeter os exercícios de desafio de programação da ACADEMIA CAPGEMINI, realizados na semana do dia 19/02/2022.
 # Instruções para Executar o programa:
-1) Faça o download .zip deste arquivo
-2) Faça uma pesquisa no google por "jupyter notebook" ou acesse diretamente no link: https://jupyter.org/
-3) Navegue (abaixe um pouco a página) e clique no botão "try it on your browser"; 
+1) Faça o download .zip deste arquivo clicando neste botão:
+![image](https://user-images.githubusercontent.com/22027268/154817559-acb3353d-4bc0-445a-b281-5789a38f9350.png)
+
+3) Faça uma pesquisa no google por "jupyter notebook" ou acesse diretamente no link: https://jupyter.org/
+4) Navegue (abaixe um pouco a página) e clique no botão "try it on your browser"; 
 
  ![image](https://user-images.githubusercontent.com/22027268/154817227-dad824ef-eb78-4cc4-bd58-ab4b07fe44ec.png)
 
