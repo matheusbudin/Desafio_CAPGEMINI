@@ -28,7 +28,10 @@ Conforme a figura:
 
 # Para Executar os programas:
 1) Clique no espaço destinado a cada exercício do desafio, eles estão em fila, é só ir rolando a página para baixo (pageDown);
-2) Uma vez selecionado, clique no ícone do "Play", ele vai pedir para o usuário entrar com o dado (conforme o exercício);
-3) Aperte a tecla "Enter" após a entrada do usuário e ele executará o código imprimindo a saída requisitada:
+2) Caso nao esteja escrito Python 3 no logal indicado abaixo -> Selecione o núcleo clicando em "kernel" -> Python 3 (conforme figura):
+![image](https://user-images.githubusercontent.com/22027268/154848344-bcafef45-0adb-40ab-bb22-5a8f8bd0bcee.png)
+
+4) Uma vez selecionado, clique no ícone do "Play", ele vai pedir para o usuário entrar com o dado (conforme o exercício);
+5) Aperte a tecla "Enter" após a entrada do usuário e ele executará o código imprimindo a saída requisitada:
 
 ![image](https://user-images.githubusercontent.com/22027268/154817505-a3007e77-181a-44fa-accb-92e090491090.png)
